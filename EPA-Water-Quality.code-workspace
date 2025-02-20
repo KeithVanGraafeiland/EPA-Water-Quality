@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../NOAA-Co-Ops-Water-Levels"
 		}
 	],
 	"settings": {}
